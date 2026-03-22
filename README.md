@@ -74,6 +74,7 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kurunotchi&theme=github-compact&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline)
 
 ---
+
 ## 🏆 Awards & Achievements
 
 <div align="center">
@@ -137,7 +138,7 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ---
 
-## 📁 Featured Projects
+## 📁 Featured Project
 
 ### 🌊⭐ [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system) ⭐
 **`THESIS PROJECT`** • **`ENVIRONMENTAL MONITORING`** • **`IOT`**
@@ -152,45 +153,6 @@ Real-time water quality monitoring system that detects harmful algal bloom (red 
 - 📊 **Cloud Dashboard** – Historical data logging and trend analysis
 
 *This is my undergraduate thesis, representing my commitment to using technology for environmental protection and community safety in Palawan.*
-
----
-
-### 🤖 [SMARRT Palawan Battlebot 2024](https://github.com/Kurunotchi/battlebot-2024)
-**`🥇 CHAMPION`** • **`ROBOTICS`** • **`COMBAT ROBOT`**
-
-Custom-built combat robot that won the SMARRT Palawan Battlebots Competition 2024. Features a 3D-printed polycarbonate chassis (Fusion 360), high-torque motors, IR sensor opponent detection, and modular armor system. Undefeated throughout the tournament.
-
----
-
-### 🎨 [3D Design Competition 2025 Entry](https://github.com/Kurunotchi/3d-competition-2025)
-**`🥉 3RD PLACE`** • **`CAD`** • **`3D MODELING`**
-
-Award-winning 3D design entry for the SMARRT Palawan 3D Design Competition 2025. Features complex organic modeling in Blender, print-optimized geometry, and functional moving parts. Demonstrates advanced skills in Fusion 360, Blender, and additive manufacturing.
-
----
-
-### 🔋 [Battery Capacity Tester (CTS)](https://github.com/Kurunotchi/CTS-code-using-ESP32)
-4-channel 18650 Li-ion battery capacity tester with ESP32. Features real-time monitoring, cycle testing, and cloud logging to Google Sheets.
-
----
-
-### 🤖 [Sumobot](https://github.com/Kurunotchi/Sumobot)
-Competition-ready sumo robot using IR sensors for edge detection and opponent tracking. Custom chassis design in Fusion 360 with Arduino control logic.
-
----
-
-### 🦿 [RehaStride](https://github.com/Kurunotchi/PNS_RehaStride)
-Arduino-powered rehabilitation device providing controlled linear motion for physical therapy. Features stepper motor control, rotary encoder feedback, and OLED display.
-
----
-
-### 🥤 [Vending Machine Controller](https://github.com/Kurunotchi/Vending-Machine-using-arduino-nano)
-Arduino-based weight monitoring system using load cell + HX711. Real-time weight display on I2C OLED (SSD1306) with serial monitoring.
-
----
-
-### 🌱 [NPK Soil Sensor](https://github.com/Kurunotchi/NPK-Sensor-with-LCD-16x2)
-Soil nutrient monitoring system for smart agriculture. Reads Nitrogen, Phosphorus, and Potassium levels with real-time LCD display.
 
 ---
 
@@ -223,6 +185,7 @@ I document my projects and share engineering insights on YouTube. Subscribe to f
 ## 🌐 Find Me Elsewhere
 
 - **YouTube:** [@Kurunotchi](https://www.youtube.com/@Kurunotchi)
+- **Portfolio:** *Coming soon*
 
 ---
 
