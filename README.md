@@ -185,7 +185,8 @@ I document my projects and share engineering insights on YouTube. Subscribe to f
 ## 🌐 Find Me Elsewhere
 
 - **YouTube:** [@Kurunotchi](https://www.youtube.com/@Kurunotchi)
-- **Portfolio:** *Coming soon*
+- **Portfolio:**
+[@Kurunotchi](https://kurunotchi.vercel.app/) 
 
 ---
 
