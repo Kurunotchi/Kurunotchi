@@ -1,19 +1,25 @@
 # 🔧 Kurunotchi
 
-**`3D Designer | CAD Engineer | Embedded Systems Tinkerer`**
+**`3D Designer | CAD Engineer | Embedded Systems Tinkerer | Educator`**
 
 📍 **Based in Palawan, Philippines**  
-💼 **Associate Engineer at Hajimeru IT Solution**
+💼 **Associate Engineer at Hajimeru IT Solution**  
 📖 **Instructor, BSECE - Fullbright College**
 
-*"We cannot undo the damage, but we can make a new start."*
+> *“We cannot undo the damage, but we can make a new start.”*
+
+I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and bringing things to life with microcontrollers. From the beautiful shores of Palawan, I craft solutions that merge hardware, software, and design to build a more sustainable future.
 
 ---
 
 ## 💼 Professional
 
-**Associate Engineer @ Hajimeru IT Solution**  
-*Building innovative IT solutions with a focus on embedded systems and design integration.*
+| Role | Institution |
+|------|-------------|
+| **Associate Engineer** | Hajimeru IT Solution |
+| **Instructor, BSECE** | Fullbright College |
+
+*Building innovative IT solutions while mentoring future electronics and computer engineers in Palawan.*
 
 ---
 
@@ -22,10 +28,13 @@
 | Domain | Tools & Tech |
 |--------|--------------|
 | **3D Modeling & CAD** | Fusion 360, AutoCAD, Blender |
+| **PCB Design & Simulation** | EasyEDA, Multisim |
+| **Data Analysis & Modeling** | MATLAB |
 | **Microcontrollers** | Arduino, ESP32, Raspberry Pi, Sensors, Actuators |
 | **Firmware** | C/C++, MicroPython |
 | **Environmental Monitoring** | Water Quality Sensors, GSM/SMS Alerts, IoT Data Logging |
-| **Prototyping** | 3D Printing, Laser Cutting, PCB Design |
+| **Prototyping** | 3D Printing, Laser Cutting, PCB Fabrication |
+| **Education & Mentorship** | BSECE Curriculum, Laboratory Instruction, Student Projects |
 
 ---
 
@@ -34,6 +43,9 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6A00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE1C25?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![Multisim](https://img.shields.io/badge/Multisim-0078D4?style=for-the-badge&logo=ni&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
@@ -44,14 +56,14 @@
 ### 🌊⭐ [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system) ⭐
 **`CAPSTONE PROJECT`** • **`ENVIRONMENTAL MONITORING`** • **`IOT`**
 
-Real-time water quality monitoring system that detects harmful algal bloom (red tide) conditions and provides early warnings to coastal communities in Palawan. Features ESP32-based data collection, GSM/SMS alerts, multiple water quality sensors (pH, temperature, dissolved oxygen, turbidity), and a custom 3D-printed waterproof enclosure designed in Fusion 360.
+Real-time water quality monitoring system that detects harmful algal bloom (red tide) conditions and provides early warnings to coastal communities in Palawan. Features ESP32-based data collection, GSM/SMS alerts, multiple water quality sensors (pH, temperature, dissolved oxygen, turbidity), custom PCB designed in EasyEDA, circuit simulation in Multisim, and a 3D-printed waterproof enclosure designed in Fusion 360. Sensor calibration and data analysis performed using MATLAB.
 
 **Key Achievements:**
-- 🚨 **Early Warning System** - Automatic SMS alerts when dangerous conditions detected
-- 🌊 **Multi-Parameter Monitoring** - 4 critical water quality metrics in real-time
-- 🔋 **Solar-Powered** - Designed for remote coastal deployment
-- 🖨️ **Complete 3D Design** - Waterproof enclosure and mounting systems in Fusion 360
-- 📊 **Cloud Dashboard** - Historical data logging and trend analysis
+- 🚨 **Early Warning System** – Automatic SMS alerts when dangerous conditions detected
+- 🌊 **Multi-Parameter Monitoring** – 4 critical water quality metrics in real-time
+- 🔋 **Solar-Powered** – Designed for remote coastal deployment
+- 🖨️ **Complete 3D Design** – Waterproof enclosure and mounting systems in Fusion 360
+- 📊 **Cloud Dashboard** – Historical data logging and trend analysis
 
 *This project represents my commitment to using technology for environmental protection and community safety in Palawan.*
 
@@ -82,25 +94,38 @@ Soil nutrient monitoring system for smart agriculture. Reads Nitrogen, Phosphoru
 
 ---
 
-## 🌏 Palawan-Made Projects
+## 🎓 Teaching & Mentorship
 
-*Proudly designed and built in the paradise of the Philippines.*
-
-> 🐟 *"Protecting Palawan's waters, one sensor at a time."* — From the Red Tide Monitoring Project
+As an **Instructor for BSECE at Fullbright College**, I:
+- Guide students in embedded systems design, PCB development (EasyEDA), and circuit simulation (Multisim)
+- Supervise capstone projects combining hardware, software, and mechanical design
+- Integrate 3D design (Fusion 360) and data analysis (MATLAB) into electronics curriculum
+- Mentor students in IoT, environmental monitoring, and community-focused engineering
 
 ---
 
-## 📊 GitHub Stats
+## 🌏 Palawan-Made Projects
 
-![Kurunotchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurunotchi&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurunotchi&layout=compact&theme=dark&hide_border=true)
+*Proudly designed, built, and taught in the paradise of the Philippines.*
+
+> 🐟 *“Protecting Palawan's waters, one sensor at a time.”* — From the Red Tide Monitoring Project
+
+---
+
+## 📺 YouTube Build Logs
+
+I document my projects and share engineering insights on YouTube. Subscribe to follow my journey:
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Kurunotchi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Kurunotchi)
 
 ---
 
 ## 🌐 Find Me Elsewhere
 
-- **YouTube Build Logs:** [[Kurunotchi](https://www.youtube.com/@Kurunotchi)]
+- **YouTube:** [@Kurunotchi](https://www.youtube.com/@Kurunotchi)
+- **LinkedIn:** *[Add your LinkedIn URL]*
+- **Portfolio:** *[Add your website]*
 
 ---
 
-> 💡 *“Design it. Print it. Code it. Make it work.” — From Palawan with code and creativity.*
+> 💡 *“Design it. Print it. Code it. Make it work. Teach it.” — From Palawan with code, creativity, and commitment to education.*
