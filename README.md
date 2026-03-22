@@ -6,9 +6,8 @@
 💼 **Associate Engineer at Hajimeru IT Solution**
 📖 **Instructor, BSECE - Fullbright College**
 
-> *"We cannot undo the damage, but we can make a new start."*
+*"We cannot undo the damage, but we can make a new start."*
 
-I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and bringing things to life with microcontrollers. From the beautiful shores of Palawan, I craft solutions that merge hardware, software, and design to build a more sustainable future.
 ---
 
 ## 💼 Professional
