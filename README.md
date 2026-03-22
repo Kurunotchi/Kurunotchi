@@ -75,7 +75,7 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ---
 
-### 🏆 Awards & Achievements
+## 🏆 Awards & Achievements
 
 | Event | Achievement | Year | Location |
 |-------|-------------|------|----------|
@@ -84,36 +84,27 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ---
 
-### 🎖️ Competition Highlights
-
-| Competition | Category | Result | Project |
-|-------------|----------|--------|---------|
-| **Battlebots 2024** | Robotics Combat | 🏆 Champion | Custom-built combat robot with 3D-printed chassis, high-torque motors, and IR sensor targeting system |
-| **3D Design Competition 2025** | CAD & Additive Manufacturing | 🥉 3rd Place | [Red Tide Monitoring System Enclosure](https://github.com/Kurunotchi/redtide-monitoring-system) - Waterproof housing with integrated sensor mounts and solar panel bracket |
-
----
-
 ### 🤖 Battlebots 2024 - Champion
 
-My combat robot featured:
+Custom combat robot featuring:
 - **Custom chassis** designed in Fusion 360 and 3D printed in polycarbonate
 - **High-torque motors** with precision control
 - **IR sensor system** for opponent detection and targeting
 - **Modular armor** system for quick repairs between matches
 
-*Proudly representing Palawan in the 2024 SMARRT Battlebots Competition*
+*Undefeated throughout the tournament. Proudly representing Palawan in the SMARRT Battlebots Competition.*
 
 ---
 
 ### 🎨 3D Design Competition 2025 - 3rd Place
 
-My award-winning entry was the **Red Tide Monitoring System enclosure**:
-- **Waterproof IP68-rated** design for coastal deployment
-- **Integrated mounting** for pH, temperature, DO, and turbidity sensors
-- **Solar panel bracket** with adjustable angle
-- **Internal cable management** and sealed connector ports
+Award-winning 3D design entry recognized for:
+- **Complex organic modeling** using Blender and Fusion 360
+- **Print optimization** for FDM and resin printing
+- **Functional assembly** with moving parts
+- **Aesthetic finish** and presentation
 
-*Recognized for functional design, print optimization, and real-world application for Palawan's coastal communities*
+*This achievement showcases my proficiency in 3D modeling, CAD, and additive manufacturing techniques.*
 
 ---
 
@@ -140,7 +131,7 @@ My award-winning entry was the **Red Tide Monitoring System enclosure**:
 ## 📁 Featured Projects
 
 ### 🌊⭐ [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system) ⭐
-**`CAPSTONE PROJECT`** • **`ENVIRONMENTAL MONITORING`** • **`IOT`**
+**`THESIS PROJECT`** • **`ENVIRONMENTAL MONITORING`** • **`IOT`**
 
 Real-time water quality monitoring system that detects harmful algal bloom (red tide) conditions and provides early warnings to coastal communities in Palawan. Features ESP32-based data collection, GSM/SMS alerts, multiple water quality sensors (pH, temperature, dissolved oxygen, turbidity), custom PCB designed in EasyEDA, circuit simulation in Multisim, and a 3D-printed waterproof enclosure designed in Fusion 360. Sensor calibration and data analysis performed using MATLAB.
 
@@ -151,7 +142,21 @@ Real-time water quality monitoring system that detects harmful algal bloom (red 
 - 🖨️ **Complete 3D Design** – Waterproof enclosure and mounting systems in Fusion 360
 - 📊 **Cloud Dashboard** – Historical data logging and trend analysis
 
-*This project represents my commitment to using technology for environmental protection and community safety in Palawan.*
+*This is my undergraduate thesis, representing my commitment to using technology for environmental protection and community safety in Palawan.*
+
+---
+
+### 🤖 [SMARRT Palawan Battlebot 2024](https://github.com/Kurunotchi/battlebot-2024)
+**`🥇 CHAMPION`** • **`ROBOTICS`** • **`COMBAT ROBOT`**
+
+Custom-built combat robot that won the SMARRT Palawan Battlebots Competition 2024. Features a 3D-printed polycarbonate chassis (Fusion 360), high-torque motors, IR sensor opponent detection, and modular armor system. Undefeated throughout the tournament.
+
+---
+
+### 🎨 [3D Design Competition 2025 Entry](https://github.com/Kurunotchi/3d-competition-2025)
+**`🥉 3RD PLACE`** • **`CAD`** • **`3D MODELING`**
+
+Award-winning 3D design entry for the SMARRT Palawan 3D Design Competition 2025. Features complex organic modeling in Blender, print-optimized geometry, and functional moving parts. Demonstrates advanced skills in Fusion 360, Blender, and additive manufacturing.
 
 ---
 
