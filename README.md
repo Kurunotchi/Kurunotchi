@@ -74,37 +74,46 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kurunotchi&theme=github-compact&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline)
 
 ---
-
 ## 🏆 Awards & Achievements
 
-| Event | Achievement | Year | Location |
-|-------|-------------|------|----------|
-| **SMARRT Palawan Battlebots Competition** | 🥇 **Champion** | 2024 | Palawan, Philippines |
-| **SMARRT Palawan 3D Design Competition** | 🥉 **3rd Place** | 2025 | Palawan, Philippines |
+<div align="center">
+  
+### 🏅 2024
+<a href="https://github.com/Kurunotchi/battlebot-2024">
+  <img src="https://img.shields.io/badge/🥇%20SMARRT%20Palawan%20Battlebots%20Competition-CHAMPION-FFD700?style=for-the-badge&logo=robot&logoColor=black" />
+</a>
+
+### 🥉 2025
+<a href="https://github.com/Kurunotchi/3d-competition-2025">
+  <img src="https://img.shields.io/badge/🥉%20SMARRT%20Palawan%203D%20Design%20Competition-3RD%20PLACE-CD7F32?style=for-the-badge&logo=blender&logoColor=white" />
+</a>
 
 ---
+
+| 🏆 Competition | 🎯 Result | 📍 Location | 📅 Year |
+|----------------|----------|-------------|--------|
+| **SMARRT Palawan Battlebots** | 🥇 Champion | Palawan | 2024 |
+| **SMARRT Palawan 3D Design** | 🥉 3rd Place | Palawan | 2025 |
+
+</div>
+
+<details>
+<summary><b>🏆 Click to view competition details</b></summary>
+
+<br>
 
 ### 🤖 Battlebots 2024 - Champion
-
-Custom combat robot featuring:
-- **Custom chassis** designed in Fusion 360 and 3D printed in polycarbonate
-- **High-torque motors** with precision control
-- **IR sensor system** for opponent detection and targeting
-- **Modular armor** system for quick repairs between matches
-
-*Undefeated throughout the tournament. Proudly representing Palawan in the SMARRT Battlebots Competition.*
-
----
+- **Chassis:** Polycarbonate, designed in Fusion 360
+- **Motors:** High-torque with precision control
+- **Sensors:** IR opponent detection
+- **Record:** Undefeated
 
 ### 🎨 3D Design Competition 2025 - 3rd Place
+- **Tools:** Blender, Fusion 360
+- **Focus:** Complex organic modeling, print optimization
+- **Features:** Functional moving parts
 
-Award-winning 3D design entry recognized for:
-- **Complex organic modeling** using Blender and Fusion 360
-- **Print optimization** for FDM and resin printing
-- **Functional assembly** with moving parts
-- **Aesthetic finish** and presentation
-
-*This achievement showcases my proficiency in 3D modeling, CAD, and additive manufacturing techniques.*
+</details>
 
 ---
 
