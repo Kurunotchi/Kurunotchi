@@ -98,7 +98,7 @@ Soil nutrient monitoring system for smart agriculture. Reads Nitrogen, Phosphoru
 
 ## 🌐 Find Me Elsewhere
 
-- **YouTube Build Logs:** [[link](https://www.youtube.com/@Kurunotchi)]
+- **YouTube Build Logs:** [[Kurunotchi](https://www.youtube.com/@Kurunotchi)]
 
 ---
 
