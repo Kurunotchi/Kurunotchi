@@ -4,9 +4,11 @@
 
 📍 **Based in Palawan, Philippines**  
 💼 **Associate Engineer at Hajimeru IT Solution**
+📖 **Instructor, BSECE - Fullbright College**
 
-I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and bringing things to life with microcontrollers. From the beautiful shores of Palawan, I craft solutions that merge hardware, software, and design.
+> *"We cannot undo the damage, but we can make a new start."*
 
+I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and bringing things to life with microcontrollers. From the beautiful shores of Palawan, I craft solutions that merge hardware, software, and design to build a more sustainable future.
 ---
 
 ## 💼 Professional
