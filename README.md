@@ -223,8 +223,6 @@ I document my projects and share engineering insights on YouTube. Subscribe to f
 ## 🌐 Find Me Elsewhere
 
 - **YouTube:** [@Kurunotchi](https://www.youtube.com/@Kurunotchi)
-- **LinkedIn:** *[Add your LinkedIn URL]*
-- **Portfolio:** *[Add your website]*
 
 ---
 
