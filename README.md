@@ -23,6 +23,7 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 | **3D Modeling & CAD** | Fusion 360, AutoCAD, Blender |
 | **Microcontrollers** | Arduino, ESP32, Raspberry Pi, Sensors, Actuators |
 | **Firmware** | C/C++, MicroPython |
+| **Environmental Monitoring** | Water Quality Sensors, GSM/SMS Alerts, IoT Data Logging |
 | **Prototyping** | 3D Printing, Laser Cutting, PCB Design |
 
 ---
@@ -39,25 +40,52 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ## 📁 Featured Projects
 
-*(Replace these with your actual projects)*
+### 🌊⭐ [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system) ⭐
+**`CAPSTONE PROJECT`** • **`ENVIRONMENTAL MONITORING`** • **`IOT`**
 
-### 🖨️ [Custom 3D Printer Mod](link)
-Designed printable upgrades for Ender 3: direct drive mount, cable chain, and cooling duct. Models available as `.stl` + Fusion 360 source.
+Real-time water quality monitoring system that detects harmful algal bloom (red tide) conditions and provides early warnings to coastal communities in Palawan. Features ESP32-based data collection, GSM/SMS alerts, multiple water quality sensors (pH, temperature, dissolved oxygen, turbidity), and a custom 3D-printed waterproof enclosure designed in Fusion 360.
 
-### 🚗 [Bluetooth RC Car](link)
-3D-printed chassis (Fusion 360), ESP32 control, smartphone app interface. Full schematics and Arduino code included.
+**Key Achievements:**
+- 🚨 **Early Warning System** - Automatic SMS alerts when dangerous conditions detected
+- 🌊 **Multi-Parameter Monitoring** - 4 critical water quality metrics in real-time
+- 🔋 **Solar-Powered** - Designed for remote coastal deployment
+- 🖨️ **Complete 3D Design** - Waterproof enclosure and mounting systems in Fusion 360
+- 📊 **Cloud Dashboard** - Historical data logging and trend analysis
 
-### 🌡️ [Smart Greenhouse Controller](link)
-Automated watering + climate monitoring using ESP8266, sensors, and a custom enclosure designed in Blender.
+*This project represents my commitment to using technology for environmental protection and community safety in Palawan.*
 
-### 📐 [Parametric Storage System](link)
-Fusion 360 model with user parameters to customize drawer sizes. Generates ready-to-print `.stl` files.
+---
+
+### 🔋 [Battery Capacity Tester (CTS)](https://github.com/Kurunotchi/CTS-code-using-ESP32)
+4-channel 18650 Li-ion battery capacity tester with ESP32. Features real-time monitoring, cycle testing, and cloud logging to Google Sheets.
+
+---
+
+### 🤖 [Sumobot](https://github.com/Kurunotchi/Sumobot)
+Competition-ready sumo robot using IR sensors for edge detection and opponent tracking. Custom chassis design in Fusion 360 with Arduino control logic.
+
+---
+
+### 🦿 [RehaStride](https://github.com/Kurunotchi/PNS_RehaStride)
+Arduino-powered rehabilitation device providing controlled linear motion for physical therapy. Features stepper motor control, rotary encoder feedback, and OLED display.
+
+---
+
+### 🥤 [Vending Machine Controller](https://github.com/Kurunotchi/Vending-Machine-using-arduino-nano)
+Arduino-based weight monitoring system using load cell + HX711. Real-time weight display on I2C OLED (SSD1306) with serial monitoring.
+
+---
+
+### 🌱 [NPK Soil Sensor](https://github.com/Kurunotchi/NPK-Sensor-with-LCD-16x2)
+Soil nutrient monitoring system for smart agriculture. Reads Nitrogen, Phosphorus, and Potassium levels with real-time LCD display.
 
 ---
 
 ## 🌏 Palawan-Made Projects
 
 *Proudly designed and built in the paradise of the Philippines.*
+
+> 🐟 *"Protecting Palawan's waters, one sensor at a time."* — From the Red Tide Monitoring Project
 
 ---
 
@@ -70,10 +98,7 @@ Fusion 360 model with user parameters to customize drawer sizes. Generates ready
 
 ## 🌐 Find Me Elsewhere
 
-- **Thingiverse / Printables:** [link]
-- **YouTube Build Logs:** [link]
-- **LinkedIn:** [link]
-- **Portfolio:** [link]
+- **YouTube Build Logs:** [[link](https://www.youtube.com/@Kurunotchi)]
 
 ---
 
