@@ -51,6 +51,56 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Real-Time Stats
+
+| | |
+|--|--|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurunotchi&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&border_radius=10&custom_title=📊%20GitHub%20Stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurunotchi&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6a00&border_radius=10&hide=html,css&custom_title=💻%20Languages) |
+
+---
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kurunotchi&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ff6a00&sideNums=ff6a00&currStreakLabel=ff6a00&sideLabels=ff6a00)](https://git.io/streak-stats)
+
+---
+
+### 📅 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kurunotchi&theme=github-compact&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline)
+
+---
+
+### 🏆 Achievement Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kurunotchi&theme=radical&no-frame=true&row=1&column=7&margin-w=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 👁️ Profile Analytics
+
+| Metric | Value |
+|--------|-------|
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Kurunotchi&color=ff6a00&style=flat-square&label=👁️+PROFILE+VIEWS) |
+| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/Kurunotchi?style=flat-square&label=⭐%20STARS&color=ff6a00) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/Kurunotchi?style=flat-square&label=👥%20FOLLOWERS&color=ff6a00) |
+
+---
+
+### 🎯 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/Kurunotchi" alt="Kurunotchi's GitHub Contribution Chart" width="800" />
+
+</div>
+
+*These widgets update automatically—stats are live and reflect your actual GitHub activity!*
+
+---
+
 ## 📁 Featured Projects
 
 ### 🌊⭐ [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system) ⭐
