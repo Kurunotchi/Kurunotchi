@@ -75,9 +75,45 @@ I bridge the physical and digital worlds—designing in 3D, modeling in CAD, and
 
 ---
 
-### 🏆 Achievement Trophies
+### 🏆 Awards & Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kurunotchi&theme=radical&no-frame=true&row=1&column=7&margin-w=15&title=Stars,Followers,Commits,PullRequest,Issues,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+| Event | Achievement | Year | Location |
+|-------|-------------|------|----------|
+| **SMARRT Palawan Battlebots Competition** | 🥇 **Champion** | 2024 | Palawan, Philippines |
+| **SMARRT Palawan 3D Design Competition** | 🥉 **3rd Place** | 2025 | Palawan, Philippines |
+
+---
+
+### 🎖️ Competition Highlights
+
+| Competition | Category | Result | Project |
+|-------------|----------|--------|---------|
+| **Battlebots 2024** | Robotics Combat | 🏆 Champion | Custom-built combat robot with 3D-printed chassis, high-torque motors, and IR sensor targeting system |
+| **3D Design Competition 2025** | CAD & Additive Manufacturing | 🥉 3rd Place | [Red Tide Monitoring System Enclosure](https://github.com/Kurunotchi/redtide-monitoring-system) - Waterproof housing with integrated sensor mounts and solar panel bracket |
+
+---
+
+### 🤖 Battlebots 2024 - Champion
+
+My combat robot featured:
+- **Custom chassis** designed in Fusion 360 and 3D printed in polycarbonate
+- **High-torque motors** with precision control
+- **IR sensor system** for opponent detection and targeting
+- **Modular armor** system for quick repairs between matches
+
+*Proudly representing Palawan in the 2024 SMARRT Battlebots Competition*
+
+---
+
+### 🎨 3D Design Competition 2025 - 3rd Place
+
+My award-winning entry was the **Red Tide Monitoring System enclosure**:
+- **Waterproof IP68-rated** design for coastal deployment
+- **Integrated mounting** for pH, temperature, DO, and turbidity sensors
+- **Solar panel bracket** with adjustable angle
+- **Internal cable management** and sealed connector ports
+
+*Recognized for functional design, print optimization, and real-world application for Palawan's coastal communities*
 
 ---
 
