@@ -1,4 +1,4 @@
-# Kurunotchi
+# Kodic Guzman
 
 **`3D Designer · CAD Engineer · Embedded Systems Developer · Educator`**
 
