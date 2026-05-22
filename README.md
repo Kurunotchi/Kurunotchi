@@ -56,6 +56,7 @@ I specialize in bridging physical and digital engineering disciplines—developi
 ![](https://img.shields.io/github/stars/Kurunotchi?style=for-the-badge&color=ff6a00&labelColor=0d1117&label=Total%20Stars)
 
 </div>
+
 ---
 
 ## 🏆 Competition Awards
@@ -149,13 +150,6 @@ A photorealistic outdoor environment scene built and rendered in Blender, showca
 **`Robotics`** • **`C++`** • **`Arduino`**
 
 An autonomous sumobot built with IR-based opponent detection. Designed for competitive robotics, this bot uses sensor-driven logic to locate and push opponents out of the ring.
-
----
-
-### 🌱 [NPK Sensor with LCD 16x2](https://github.com/Kurunotchi/NPK-Sensor-with-LCD-16x2)
-**`Agriculture IoT`** • **`C++`** • **`Arduino`**
-
-An NPK soil sensor interface that reads nitrogen, phosphorus, and potassium levels and displays the values on a 16×2 LCD — practical for precision agriculture applications.
 
 ---
 
