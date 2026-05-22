@@ -29,9 +29,7 @@ I specialize in bridging physical and digital engineering disciplines—developi
 |--------|----------------------|
 | **3D Modeling & CAD** | Fusion 360, AutoCAD, Blender |
 | **PCB Design & Simulation** | EasyEDA, Multisim |
-| **Data Analysis & Modeling** | MATLAB |
 | **Embedded Systems** | Arduino, ESP32, Raspberry Pi, Sensors, Actuators |
-| **Firmware Development** | C/C++, MicroPython |
 | **Environmental Monitoring** | Water Quality Sensors, GSM/SMS Alerts, IoT Data Logging |
 | **Prototyping & Fabrication** | 3D Printing, Laser Cutting, PCB Fabrication |
 | **Education & Mentorship** | BSECE Curriculum, Laboratory Instruction, Capstone Supervision |
@@ -45,36 +43,19 @@ I specialize in bridging physical and digital engineering disciplines—developi
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-0066CC?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Multisim](https://img.shields.io/badge/Multisim-0078D4?style=for-the-badge&logo=ni&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📈 Activity Overview
-
-| | |
-|--|--|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kurunotchi&show_icons=true&count_private=true&hide=issues&theme=radical&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&border_radius=10&custom_title=📊%20GitHub%20Stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurunotchi&layout=compact&theme=radical&bg_color=0d1117&title_color=ff6a00&border_radius=10&hide=html,css&custom_title=💻%20Languages) |
-
----
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kurunotchi&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=ff6a00&ring=ff6a00&fire=ff6a00&currStreakNum=ff6a00&sideNums=ff6a00&currStreakLabel=ff6a00&sideLabels=ff6a00)](https://git.io/streak-stats)
-
----
-
-### 📅 Contribution Timeline
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kurunotchi&theme=github-compact&bg_color=0d1117&color=ff6a00&line=ff6a00&point=ffffff&area=true&hide_border=true&custom_title=📈%20Contribution%20Timeline)
+![](https://img.shields.io/github/followers/Kurunotchi?style=for-the-badge&color=ff6a00&labelColor=0d1117&label=Followers)
+![](https://img.shields.io/github/stars/Kurunotchi?style=for-the-badge&color=ff6a00&labelColor=0d1117&label=Total%20Stars)
 
 </div>
-
 ---
 
 ## 🏆 Competition Awards
@@ -128,12 +109,12 @@ I specialize in bridging physical and digital engineering disciplines—developi
 
 ---
 
-## 📁 Featured Project
+## 📁 Projects
 
 ### 🌊 [Red Tide Monitoring and Alert System](https://github.com/Kurunotchi/redtide-monitoring-system)
 **`Undergraduate Thesis`** • **`Environmental Monitoring`** • **`IoT`**
 
-A real-time water quality monitoring system designed to detect harmful algal bloom (red tide) conditions and deliver early warnings to coastal communities in Palawan. The system features ESP32-based data acquisition, GSM/SMS alert integration, multi-parameter water quality sensing (pH, temperature, dissolved oxygen, turbidity), a custom PCB designed in EasyEDA, circuit simulation in Multisim, and a 3D-printed waterproof enclosure developed in Fusion 360. Sensor calibration and data analysis were performed using MATLAB.
+A real-time water quality monitoring system designed to detect harmful algal bloom (red tide) conditions and deliver early warnings to coastal communities in Palawan. The system features ESP32-based data acquisition, GSM/SMS alert integration, multi-parameter water quality sensing (pH, temperature, dissolved oxygen, turbidity), a custom PCB designed in EasyEDA, circuit simulation in Multisim, and a 3D-printed waterproof enclosure developed in Fusion 360.
 
 **Key Features:**
 - 🚨 **Automated Alert System** — SMS notifications triggered upon detection of hazardous conditions
@@ -146,12 +127,58 @@ A real-time water quality monitoring system designed to detect harmful algal blo
 
 ---
 
+### 🌿 [PRJ-001 — Blender 3D Environment Render](https://github.com/Kurunotchi/PRJ-001)
+**`3D Design`** • **`Blender`** • **`Environmental Visualization`**
+
+A photorealistic outdoor environment scene built and rendered in Blender, showcasing natural lighting, vegetation detailing, and high-quality rendering techniques. This project demonstrates the full 3D visualization workflow from scene composition to final render output.
+
+**Key Highlights:**
+- 🌱 **Realistic Vegetation** — Detailed grass and plant assets with natural composition
+- 💡 **Lighting & Shadows** — Outdoor environmental lighting with Cycles/Eevee render engine
+- 🎨 **Material & Texture Design** — Custom materials for photorealistic surface detail
+
+<div align="center">
+
+![PRJ-001 Render](https://github.com/Kurunotchi/PRJ-001/raw/main/3d_Aliyah/render-images/Top.png)
+
+</div>
+
+---
+
+### 🤖 [Sumobot](https://github.com/Kurunotchi/Sumobot)
+**`Robotics`** • **`C++`** • **`Arduino`**
+
+An autonomous sumobot built with IR-based opponent detection. Designed for competitive robotics, this bot uses sensor-driven logic to locate and push opponents out of the ring.
+
+---
+
+### 🌱 [NPK Sensor with LCD 16x2](https://github.com/Kurunotchi/NPK-Sensor-with-LCD-16x2)
+**`Agriculture IoT`** • **`C++`** • **`Arduino`**
+
+An NPK soil sensor interface that reads nitrogen, phosphorus, and potassium levels and displays the values on a 16×2 LCD — practical for precision agriculture applications.
+
+---
+
+### 🦾 [PNS RehaStride](https://github.com/Kurunotchi/PNS_RehaStride)
+**`Rehabilitation Engineering`** • **`C++`** • **`Arduino`**
+
+An Arduino-powered rehabilitation device providing controlled, repeatable linear motion for physical therapy applications. Utilizes a stepper motor, rotary encoder, and custom control logic for consistent therapeutic movement.
+
+---
+
+### 🚦 [CTS PalSU V2](https://github.com/Kurunotchi/CTS_PalSU_V2)
+**`Embedded Systems`** • **`C++`**
+
+A control system project developed in C++, continuing development on a campus-oriented embedded solution.
+
+---
+
 ## 🎓 Teaching & Mentorship
 
 As an **Instructor for the BSECE program at Fullbright College**, I:
 - Deliver instruction in embedded systems design, PCB development (EasyEDA), and circuit simulation (Multisim)
 - Supervise capstone projects that integrate hardware, software, and mechanical design
-- Incorporate 3D design (Fusion 360) and data analysis (MATLAB) into the electronics engineering curriculum
+- Incorporate 3D design (Fusion 360, Blender) into the electronics engineering curriculum
 - Mentor students in IoT development, environmental monitoring systems, and community-focused engineering applications
 
 ---
