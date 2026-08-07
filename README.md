@@ -169,7 +169,7 @@ A control system project developed in C++, continuing development on a campus-or
 
 ## 🎓 Teaching & Mentorship
 
-As an **Instructor for the BSECE program at Fullbright College**, I:
+As an **Instructor for the BSECE program at Fullbright College**, Inc:
 - Deliver instruction in embedded systems design, PCB development (EasyEDA), and circuit simulation (Multisim)
 - Supervise capstone projects that integrate hardware, software, and mechanical design
 - Incorporate 3D design (Fusion 360, Blender) into the electronics engineering curriculum
